@@ -28,4 +28,4 @@ Version 0.1 (29th September 2021)
 Variables (mandatory): 
 - IPaddress = IP address of your Toon Meter
 - Interval = Number in seconds 
-- debugLevel = Number (1=some, 2=few, 3=all) (default = 1)
+- debugLevel = Number (1=some, 2=few, 3=all, 4=simulation) (default = 1)

@@ -312,7 +312,7 @@ function QuickApp:updateProperties() -- Update the properties
   self:updateProperty("value", tonumber(data.netConsumption))
   self:updateProperty("power", tonumber(data.netConsumption))
   self:updateProperty("unit", "Watt")
-  self:updateProperty("log", " ")
+  self:updateProperty("log", os.date("%d-%m-%Y %T"))
 end
 
 

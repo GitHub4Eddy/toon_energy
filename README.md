@@ -5,8 +5,8 @@ This QuickApp has Child Devices for Consumption (Watt), Production (Watt), Consu
 
 The Energy Usage from the Child devices Consumption High, Consumption Low, Production High and Production Low can be used for the HC3 Energy Panel
 
-The Toon needs to be rooted, see: https://github.com/JackV2020/Root-A-Toon-USB-Stick
-Recommended all in one solution for a one time boot from USB stick, 10 minutes of work and done. 
+The Toon needs to be rooted, see: https://github.com/JackV2020/Root-A-Toon-USB-Stick. 
+This is the recommended all in one solution for a one time boot from USB stick, 10 minutes of work and done. 
 
 After rooting you don't need a subscription anymore and you have access to a ToonStore with a growing number of apps. For more technical people there is a possibility to ssh into the Toon if they want with username root and password toon. Rooting is at your own risk, look here for further support and info: 
 See also: https://github.com/ToonSoftwareCollective/Root-A-Toon (if you already have a running Linux environment)

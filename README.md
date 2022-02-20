@@ -13,6 +13,16 @@ See also: https://github.com/ToonSoftwareCollective/Root-A-Toon (if you already 
 See also: https://toonforum.nl/ 
 See also: https://www.domoticaforum.eu/
 
+Version 1.3 (20th February 2022)
+- Solved issue with "NaN" responses or other bad responses from Toon Energy
+- Added child device voor actual solar production
+
+Version 1.2 (27th December 2021)
+- Solved code error with toonVersion
+
+Version 1.1 (27th December 2021)
+- Added support for Toon version 1
+- Added Simulation notice in labels
 
 Version 1.0 (3th October 2021)
 - Ready for download

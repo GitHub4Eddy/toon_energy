@@ -1,7 +1,7 @@
 # toon_energy
 This Quickapp retrieves energy consumption, energy production and gas usage from the Toon Energymeter
 
-This QuickApp has Child Devices for Consumption (Watt), Production (Watt), Consumption High (kWh), Consumption Low (kWh), Production High (kWh), Production Low (kWh), Gas Usage (l/h) and Total Gas (m³)
+This QuickApp has Child Devices for Consumption (Watt), Production (Watt), Consumption High (kWh), Consumption Low (kWh), Production High (kWh), Production Low (kWh), Production Actual (Watt), Gas Usage (l/h) and Total Gas (m³)
 
 The Energy Usage from the Child devices Consumption High, Consumption Low, Production High and Production Low can be used for the HC3 Energy Panel
 

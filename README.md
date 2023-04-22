@@ -13,6 +13,16 @@ See also: https://github.com/ToonSoftwareCollective/Root-A-Toon (if you already 
 See also: https://toonforum.nl/ 
 See also: https://www.domoticaforum.eu/
 
+Version 2.0 (22th April 2023)
+- Changed to multifile 
+- Changed powerSensor to powerMeter and multiSensor to gasMeter
+- Added translation for English and Dutch
+- Added support for Toon version 2v6 (for example firmware version V5.49.19)
+- Added support for Toon version 2v5
+- Added support for Toon version 2v4
+- Added support for Toon version 2v3
+- Improved debug messages
+
 Version 1.3 (20th February 2022)
 - Solved issue with "NaN" responses or other bad responses from Toon Energy
 - Added child device voor actual solar production
@@ -35,7 +45,8 @@ Version 0.1 (29th September 2021)
 - Initial version
 
 
-Variables (mandatory): 
+Variables (mandatory and created automatically): 
 - IPaddress = IP address of your Toon Meter
-- Interval = Number in seconds 
-- debugLevel = Number (1=some, 2=few, 3=all, 4=simulation) (default = 1)
+- toonVersion = Version 1, 2, 2v2, 2v3, 2v6 (default = 2v6)
+- Interval = Number in seconds (default = 10 seconds)
+- debugLevel = Number (1=some, 2=few, 3=all, 4=simulation mode) (default = 1)
